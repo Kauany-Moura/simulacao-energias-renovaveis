@@ -40,7 +40,7 @@ O modelo usa:
 - Progressão exponencial para crescimento de consumo  
 - Adoção linear de renováveis de 10% → 60%  
 - Custos e emissões diferentes para fósseis e renováveis  
-- Visualização com matplotlib  # simulacao-energias-renovaveis
+- Visualização com matplotlib
 
 ---
 
